@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214373474010",
+    "project_id": "trendtrack-28fbc",
+    "storage_bucket": "trendtrack-28fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214373474010:android:a50d803157633ae3c94fe3",
+        "android_client_info": {
+          "package_name": "com.example.trendtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRmhsfHOxyJ-P2RpvtD90wrVdKXp_EXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
